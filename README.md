@@ -20,7 +20,7 @@
 >`建议Python版本>=3.8`
  
 **安装Python软件包**  
-1. >`pip install playwright`
+1. >`pip install playwright(仍需通过'playwright install'安装浏览器驱动)`
 2. >`pip install loguru`
 3. >`pip install httpx`
 
