@@ -4,6 +4,16 @@
 *A Python program that can help you to get the screenshot of creator's posts.*
 <br/>
 <br/>
+**示例图片：**
+<br/>
+<br/>
+![示例图片1](https://github.com/kanbereina/FanBoxPosts_ScreenShot_Tools/blob/main/example/6242841.jpg)
+![示例图片2](https://github.com/kanbereina/FanBoxPosts_ScreenShot_Tools/blob/main/example/6305636.jpg)
+![示例图片3](https://github.com/kanbereina/FanBoxPosts_ScreenShot_Tools/blob/main/example/6451190.jpg)
+![示例图片4](https://github.com/kanbereina/FanBoxPosts_ScreenShot_Tools/blob/main/example/6623774.jpg)
+![示例图片5](https://github.com/kanbereina/FanBoxPosts_ScreenShot_Tools/blob/main/example/6807374.jpg)
+![示例图片6](https://github.com/kanbereina/FanBoxPosts_ScreenShot_Tools/blob/main/example/6961271.jpg)
+<br/>
 <br/>
 ## How to use?(如何使用？)  
 **安装Python**  
