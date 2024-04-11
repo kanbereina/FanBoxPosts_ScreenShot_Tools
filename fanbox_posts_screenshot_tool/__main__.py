@@ -18,7 +18,7 @@ async def get_shots(creator_id: str):
     logger.debug("[FanBox]正在创建上下文管理实例...")
     manager = await async_playwright().start()
     logger.debug("[FanBox]创建完毕!")
-    logger.info("[FanBox]正在创建'Chromium'驱动(无头模式)...")
+    logger.info("[FanBox]正在创建'Chromium'驱动(有头模式[doge])...")
     browser = await manager.chromium.launch(headless=False)
     logger.info("[FanBox]驱动创建完毕!")
 
